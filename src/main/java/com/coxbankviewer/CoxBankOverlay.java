@@ -1,4 +1,4 @@
-package com.example;
+package com.coxbankviewer;
 
 import java.awt.image.BufferedImage;
 import net.runelite.client.input.MouseListener;

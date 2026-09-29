@@ -1,4 +1,4 @@
-package com.example;
+package com.coxbankviewer;
 
 import java.awt.Color;
 import java.awt.Dimension;
